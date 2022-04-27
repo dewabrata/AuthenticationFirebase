@@ -5,11 +5,15 @@
       <map>
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.264" />
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13148907103825136" />
+        <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/activity_add_tasklist.xml" value="0.1743659420289855" />
+        <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/activity_firestore.xml" value="0.1743659420289855" />
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/activity_promotion_page.xml" value="0.1" />
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/aktifitas.xml" value="0.1743659420289855" />
         <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/item_chat.xml" value="0.264" />
+        <entry key="..\:/KotlinADLAndroid/AuthenticationFirebase/app/src/main/res/layout/item_task.xml" value="0.264" />
       </map>
     </option>
   </component>
